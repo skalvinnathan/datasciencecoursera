@@ -2,9 +2,6 @@
 title: "HelloWorld"
 author: "S Kalvin Nathan"
 date: "01/09/2021"
-output:
-  html_document:
-    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
