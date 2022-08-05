@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research Project 1"
-author: "Michael Galarnyk"
-date: "3/26/2017"
+author: "s kalvin nathan"
+date: "08/06/2022"
 output: html_document
 ---
 
